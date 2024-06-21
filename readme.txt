@@ -29,7 +29,7 @@ all json files are provided in the folder itself to execute the javascript code
 output pdf is saved as page1.pdf
 //////////////////////////////////////////////////////////////////////////////////
 
-docker image has been exported to
+docker image has been exported to7b479731562dd4e7fc118edb6da87dfde19a91d4457ad5f2aabaf9bc1beaec93
 
  => => writing image sha256:7b479731562dd4e7fc118edb6da87dfde19a91d4457ad5f2aabaf9bc1beaec93                                                                                0.0s 
  => => naming to docker.io/srikar99/mayankproj:1.0 
